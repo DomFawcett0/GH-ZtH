@@ -2,7 +2,8 @@ export default [
   "Reticulating splines...",
   "Generating confusing dialog for the benefit of my boss..."
   "Swapping time and space...",
-  "Spinning violently around the y-axis...",
+  "Spinning vio
+  "lently around the y-axis...",
   "Tokenizing real life...",
   "Bending the spoon...",
   "Filtering morale...",
